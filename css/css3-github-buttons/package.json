@@ -1,0 +1,24 @@
+{
+    "name": "css3-github-buttons",
+    "filename": "gh-buttons.css",
+    "version": "0",
+    "description": "Helps you easily create GitHub-style buttons from links, buttons, and inputs.",
+    "homepage": "http://nicolasgallagher.com/lab/css3-github-buttons/",
+    "keywords": [
+       "buttons",
+       "github"
+   ],
+   "maintainers": [
+       {
+           "name": "Nicolas Gallagher",
+           "web": "http://nicolasgallagher.com/" 
+       }
+   ],
+   "repositories": [
+       {
+           "type": "git",
+           "url": "https://github.com/necolas/css3-github-buttons" 
+       } 
+   ]
+
+}
