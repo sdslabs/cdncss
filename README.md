@@ -14,3 +14,4 @@ Normalize.css has been added to the repository as an example for anyone wanting 
 If the CSS library in question has no versioning use "0" for now.
 
 Only un-minified versions for now.
+<img alt="Clicky" width="1" height="1" src="//in.getclicky.com/66606907ns.gif" />
