@@ -2,10 +2,10 @@
     "name": "bootstrap",
     "filename": "bootstrap.css",
     "version": "2.1.1",
-    "description": "Bootstrap is a toolkit from Twitter designed to kickstart development of webapps and sites.",
+    "description": "Bootstrap is a toolkit from Twitter designed to kickstart development of webapps and sites using responsive web design.",
     "homepage": "http://twitter.github.com/bootstrap/",
     "keywords": [
-       "cross browser, html5, noimages"
+       "cross browser, html5, noimages, responsive"
    ],
    "maintainers": [
        {
