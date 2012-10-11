@@ -1,7 +1,7 @@
 {
     "name": "bootstrap",
     "filename": "bootstrap.css",
-    "version": "1.4.0",
+    "version": "2.1.1",
     "description": "Bootstrap is a toolkit from Twitter designed to kickstart development of webapps and sites.",
     "homepage": "http://twitter.github.com/bootstrap/",
     "keywords": [
